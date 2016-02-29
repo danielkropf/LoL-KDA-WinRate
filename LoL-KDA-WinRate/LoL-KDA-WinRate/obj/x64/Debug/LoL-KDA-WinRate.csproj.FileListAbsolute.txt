@@ -1,0 +1,15 @@
+C:\Users\daniel.louro\Desktop\GitHub\LoL-KDA-WinRate\LoL-KDA-WinRate\LoL-KDA-WinRate\bin\x64\Debug\LoL-KDA-WinRate.exe.config
+C:\Users\daniel.louro\Desktop\GitHub\LoL-KDA-WinRate\LoL-KDA-WinRate\LoL-KDA-WinRate\bin\x64\Debug\LoL-KDA-WinRate.exe
+C:\Users\daniel.louro\Desktop\GitHub\LoL-KDA-WinRate\LoL-KDA-WinRate\LoL-KDA-WinRate\bin\x64\Debug\LoL-KDA-WinRate.pdb
+C:\Users\daniel.louro\Desktop\GitHub\LoL-KDA-WinRate\LoL-KDA-WinRate\LoL-KDA-WinRate\bin\x64\Debug\CefSharp.Core.dll
+C:\Users\daniel.louro\Desktop\GitHub\LoL-KDA-WinRate\LoL-KDA-WinRate\LoL-KDA-WinRate\bin\x64\Debug\CefSharp.dll
+C:\Users\daniel.louro\Desktop\GitHub\LoL-KDA-WinRate\LoL-KDA-WinRate\LoL-KDA-WinRate\bin\x64\Debug\CefSharp.WinForms.dll
+C:\Users\daniel.louro\Desktop\GitHub\LoL-KDA-WinRate\LoL-KDA-WinRate\LoL-KDA-WinRate\bin\x64\Debug\CefSharp.WinForms.xml
+C:\Users\daniel.louro\Desktop\GitHub\LoL-KDA-WinRate\LoL-KDA-WinRate\LoL-KDA-WinRate\bin\x64\Debug\CefSharp.xml
+C:\Users\daniel.louro\Desktop\GitHub\LoL-KDA-WinRate\LoL-KDA-WinRate\LoL-KDA-WinRate\bin\x64\Debug\CefSharp.Core.xml
+C:\Users\daniel.louro\Desktop\GitHub\LoL-KDA-WinRate\LoL-KDA-WinRate\LoL-KDA-WinRate\obj\x64\Debug\LoL-KDA-WinRate.csprojResolveAssemblyReference.cache
+C:\Users\daniel.louro\Desktop\GitHub\LoL-KDA-WinRate\LoL-KDA-WinRate\LoL-KDA-WinRate\obj\x64\Debug\LoL_KDA_WinRate.Form1.resources
+C:\Users\daniel.louro\Desktop\GitHub\LoL-KDA-WinRate\LoL-KDA-WinRate\LoL-KDA-WinRate\obj\x64\Debug\LoL_KDA_WinRate.Properties.Resources.resources
+C:\Users\daniel.louro\Desktop\GitHub\LoL-KDA-WinRate\LoL-KDA-WinRate\LoL-KDA-WinRate\obj\x64\Debug\LoL-KDA-WinRate.csproj.GenerateResource.Cache
+C:\Users\daniel.louro\Desktop\GitHub\LoL-KDA-WinRate\LoL-KDA-WinRate\LoL-KDA-WinRate\obj\x64\Debug\LoL-KDA-WinRate.exe
+C:\Users\daniel.louro\Desktop\GitHub\LoL-KDA-WinRate\LoL-KDA-WinRate\LoL-KDA-WinRate\obj\x64\Debug\LoL-KDA-WinRate.pdb
